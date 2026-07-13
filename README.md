@@ -1,15 +1,15 @@
-# Power Apps Portfolio
+# Power Apps Projects
 
-A collection of Power Apps projects demonstrating low-code application development, user interface design and business process improvement using Microsoft Power Platform.
+A collection of Power Apps projects demonstrating low-code application development, business process automation and Microsoft Power Platform capabilities.
 
 ## Skills Demonstrated
 
 - Power Apps
 - Low-Code Development
+- Business Process Automation
 - User Interface Design
 - Data Capture
-- Business Process Automation
-- Form Development
+- Process Improvement
 - Power Platform Fundamentals
 
 ---
@@ -18,20 +18,20 @@ A collection of Power Apps projects demonstrating low-code application developme
 
 ### Overview
 
-A Power Apps solution developed as part of Microsoft's App in a Day training programme, designed to streamline the machine ordering process.
+A Power Apps solution developed as part of Microsoft's App in a Day programme, designed to streamline the process of comparing, selecting and requesting equipment through a structured digital workflow.
 
 ### Business Problem
 
-Manual ordering processes can be time-consuming, difficult to track and prone to errors. The aim of the application was to provide a structured digital process for selecting, comparing and requesting equipment.
+Manual ordering processes can be difficult to track and are often reliant on emails or paper-based approvals. This project aimed to provide a simple digital solution for submitting and managing equipment requests.
 
 ### Solution
 
 The application allows users to:
 
 - Browse available machines
-- Compare multiple products
-- View product information and pricing
-- Submit purchase requests
+- Compare products side-by-side
+- View pricing and product information
+- Submit equipment requests
 - Route requests for approval
 - Receive confirmation of successful submissions
 
@@ -39,31 +39,42 @@ The application allows users to:
 
 - Microsoft Power Apps
 - Microsoft Power Platform
+- Dataverse
 - Low-Code Development
 
-### Screenshots
+### Demonstration
 
-#### Product Comparison Screen
-Allows users to compare available machines before making a purchasing decision.
+**Video:** `machine-ordering-application-demonstration.mp4`
 
-#### Order Request Form
-Captures machine details, approver information and comments to support the request process.
+A demonstration of the application's key functionality, including product comparison, request submission and confirmation workflows.
 
-#### Confirmation Screen
-Confirms successful submission of the request.
+### Skills Demonstrated
+
+- Application Design
+- User Interface Development
+- Business Process Automation
+- User Input Validation
+- Form Development
+- Workflow Integration
 
 ### Learning Outcomes
 
-This project provided practical experience in:
+Through this project I gained hands-on experience with:
 
-- Building Power Apps interfaces
+- Building Power Apps applications
+- Designing user-friendly interfaces
 - Creating business forms
 - Managing user interactions
-- Designing low-code solutions
-- Understanding business process automation
+- Understanding low-code business solutions
 
 ---
 
 ## Future Projects
 
-Additional Power Apps projects will be added as I continue developing my skills in low-code development and process automation.
+Additional Power Apps projects will be added as I continue developing my skills in:
+
+- Power Apps
+- Dataverse
+- Power Platform
+- Process Optimisation
+- Automation Solutions
