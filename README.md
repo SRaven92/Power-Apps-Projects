@@ -1,2 +1,9 @@
-# Power-Apps-Projects
-Power Apps and low-code applications designed to improve business processes and information management.
+# Power Apps Portfolio
+
+A collection of Power Apps projects focused on streamlining processes and improving user experience.
+
+Topics:
+- Forms
+- Data Capture
+- Workflow Integration
+- Process Improvement
